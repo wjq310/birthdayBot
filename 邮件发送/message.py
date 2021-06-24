@@ -10,9 +10,9 @@ def sendMessage(receiver, title = 'python自动发送验证短信',file = None):
     # 服务器地址
     smtpserver = 'smtp.163.com'
     # 发送账号
-    user = '17742566640@163.com'
+    user = 'ciniao310@163.com'
     # 发送密码
-    password = 'RLVCOYDEHNRIRRIE'
+    password = 'Mrqhi0WixHOBk'
 
     # 邮件标题
     subject = title
